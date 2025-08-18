@@ -2,7 +2,7 @@
 
 **`Missionaries, Gamma Rays, and the Chaos of Innovation: Lessons from Palantir`**
 
-<aside>
+<aside markdown="1">
 🚀
 
 For nearly two decades, my career as a Go-To-Market practitioner at large Hi-tech firms followed a familiar script: prioritize predictable revenue streams, hit those quarterly targets, and stick to the established playbook.  Success was measured in metrics, not in any deeper sense of purpose or impact and while it brought financial rewards, it also led to a growing sense of disconnect.
@@ -17,7 +17,7 @@ In contrast to these norms, **Shyam Sankar**, CTO of [**Palantir Technologies**]
 
 I've elaborated on Shyam's philosophy through examples from multi-disciplinary fields. I hope they bring you insights and inspiration, and perhaps you'll find ways to apply these in your own endeavors.
 
-<aside>
+<aside markdown="1">
 👉
 
 ![image.png](image.png)
@@ -28,7 +28,7 @@ I've elaborated on Shyam's philosophy through examples from multi-disciplinary f
 
 I broadly categorized his philosophies into “**Mindsets**” a.k.a. Mental Models and “**Modes**” a.k.a. Operating Models and then expanded on each of them through this document. 
 
-<aside>
+<aside markdown="1">
 💡
 
 ![image.png](image-1.png)
@@ -39,7 +39,7 @@ I broadly categorized his philosophies into “**Mindsets**” a.k.a. Mental Mod
 
 The idea here is to push us towards a paradigm where our **professional lives serve a larger narrative of innovation, impact, and genuine value creation**.
 
-<aside>
+<aside markdown="1">
 🏅
 
 ![image.png](image-2.png)
@@ -50,7 +50,7 @@ The idea here is to push us towards a paradigm where our **professional lives se
 
 On the importance of **building a "cult-like" atmosphere** where individuals are deeply passionate about their work.
 
-<aside>
+<aside markdown="1">
 🕵️
 
 ![image.png](image-3.png)
@@ -61,7 +61,7 @@ On the importance of **building a "cult-like" atmosphere** where individuals are
 
 Work-life balance is a **false choice** for those who aspire to achieve great things. **Prioritize mission** above everything else.
 
-<aside>
+<aside markdown="1">
 🤹
 
 ![image.png](image-4.png)
@@ -72,7 +72,7 @@ Work-life balance is a **false choice** for those who aspire to achieve great th
 
 Embrace **pain as an integral part** of real growth. View **discomfort as a catalyst** for personal and professional development.
 
-<aside>
+<aside markdown="1">
 💪
 
 ![image.png](image-5.png)
@@ -81,7 +81,7 @@ Embrace **pain as an integral part** of real growth. View **discomfort as a cata
 
 ---
 
-<aside>
+<aside markdown="1">
 🧑‍🎨
 
 ![image.png](image-6.png)
@@ -92,7 +92,7 @@ Embrace **pain as an integral part** of real growth. View **discomfort as a cata
 
 Chaos, while often perceived as negative, is an **essential ingredient for innovation and achieving significant outcomes**. It encourages **experimentation**, fosters **adaptability**, and forces individuals to **think outside the box**.
 
-<aside>
+<aside markdown="1">
 🤷‍♀️
 
 ![image.png](image-7.png)
@@ -103,7 +103,7 @@ Chaos, while often perceived as negative, is an **essential ingredient for innov
 
 Acknowledge and accept that **exceptional individuals** often possess **distinct strengths and weaknesses**.
 
-<aside>
+<aside markdown="1">
 🦸‍♀️
 
 ![image.png](image-8.png)
@@ -114,7 +114,7 @@ Acknowledge and accept that **exceptional individuals** often possess **distinct
 
 Treat **position as an arbitrary construct**. The primary focus is on the artists and their work.
 
-<aside>
+<aside markdown="1">
 ⚒️
 
 ![image.png](image-9.png)
@@ -123,7 +123,7 @@ Treat **position as an arbitrary construct**. The primary focus is on the artist
 
 ---
 
-<aside>
+<aside markdown="1">
 ⚛️
 
 ![image.png](image-10.png)
@@ -134,7 +134,7 @@ Treat **position as an arbitrary construct**. The primary focus is on the artist
 
 Achieving true success requires **managed misalignment**. Both perspectives must be present and actively engaged in a constructive tension. This tension is the source of true value creation.
 
-<aside>
+<aside markdown="1">
 🤔
 
 ![image.png](image-11.png)
@@ -143,7 +143,7 @@ Achieving true success requires **managed misalignment**. Both perspectives must
 
 ---
 
-<aside>
+<aside markdown="1">
 🥷
 
 ![image.png](image-12.png)
@@ -154,7 +154,7 @@ Achieving true success requires **managed misalignment**. Both perspectives must
 
 The relentless **pursuit of winning is not for the faint of heart**. It demands dedication, sacrifice, and an unwavering commitment to the mission. It requires embracing chaos, pushing boundaries, and constantly seeking growth. But for t**hose who dare to answer the call, the rewards are immeasurable**. 
 
-<aside>
+<aside markdown="1">
 🚴‍♂️
 
 > “**It doesn’t get any easier, you just go faster.**” 
@@ -166,7 +166,7 @@ The relentless **pursuit of winning is not for the faint of heart**. It demands 
 
 **Winning is** not just about achieving a goal; it's about **transforming yourself and the world around you**. So, step into the arena, embrace the challenge, and **let the primacy of winning guide you to greatness**.
 
-<aside>
+<aside markdown="1">
 🙌
 
 ![image.png](image-14.png)
@@ -175,7 +175,7 @@ The relentless **pursuit of winning is not for the faint of heart**. It demands 
 
 ---
 
-<aside>
+<aside markdown="1">
 👉
 
 ![image.png](image-15.png)
@@ -184,7 +184,7 @@ The relentless **pursuit of winning is not for the faint of heart**. It demands 
 
 ---
 
-<aside>
+<aside markdown="1">
 📥
 
 Here’s the **downloadable version**:
@@ -195,7 +195,7 @@ https://hub.ontopraxis.ai/primacy-of-winning
 
 ---
 
-<aside>
+<aside markdown="1">
 ✍️
 
 For more such ground-breaking content, you can follow **Shyam Sankar** on: ⬇️
@@ -210,7 +210,7 @@ Substack: [https://www.shyamsankar.com/](https://www.shyamsankar.com/)
 
 ---
 
-<aside>
+<aside markdown="1">
 ⛳
 
 P.S. **Palantir has achieved remarkable milestones recently**:
